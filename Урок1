@@ -1,0 +1,31 @@
+a = 'University'
+print(a)
+print(len(a))
+
+first = 4
+second = 8
+summa = first+second
+diff = first-second
+print(summa)
+print(diff)
+
+
+first = 7
+second = 5
+third = 6
+mean = (first+second+third)/3
+print(mean)
+
+
+first_string = 'понедельник, '
+second_string = 'вторник'
+print(first_string + second_string)
+
+
+a = 1
+b = 4
+c = 7
+f = (((a * b) + (a * c))**3)/2
+print(f)
+
+
